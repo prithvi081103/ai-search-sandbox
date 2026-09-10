@@ -16,7 +16,7 @@ An interactive visualizer built in C++ with Raylib to demonstrate and benchmark 
 ![Maze Solving](Maze.png)
 
 ### 8-Puzzle Interface
-![8-Puzzle](8-puzzle.png)
+![8-Puzzle](8-Puzzle.png)
 
 ### Algorithm Benchmarking
 ![Scoreboard](Algorithmic_Benchmarking.png)
