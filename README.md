@@ -13,13 +13,13 @@ An interactive visualizer built in C++ with Raylib to demonstrate and benchmark 
 ## Media
 
 ### Maze Pathfinding
-![Maze Solving](screenshot1.png)
+![Maze Solving](Maze.png)
 
 ### 8-Puzzle Interface
-![8-Puzzle](screenshot2.png)
+![8-Puzzle](8-puzzle.png)
 
 ### Algorithm Benchmarking
-![Scoreboard](screenshot3.png)
+![Scoreboard](Algorithmic_Benchmarking.png)
 
 ### Video Demonstration
 [Watch Demo Video](demo.mov)
